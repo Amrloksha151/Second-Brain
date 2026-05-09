@@ -11,10 +11,14 @@
             "id": "2e4b9b4e52cc510c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10 Projects/Shy PDF/Shy PDF.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Shy PDF"
             }
           }
         ]
@@ -177,8 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "703d188a0b7b206d",
+  "active": "2e4b9b4e52cc510c",
   "lastOpenFiles": [
+    "00 Inbox/Inbox.md",
+    "2026-05-08.md",
     "GEMINI.md"
   ]
 }
