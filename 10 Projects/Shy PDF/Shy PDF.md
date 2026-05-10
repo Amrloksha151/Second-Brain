@@ -13,8 +13,8 @@ tags:
 A client-side PDF editor built with React and npm libraries, designed to elevate user experience through fine UI/UX while remaining totally free and private.
 
 ## 🗺️ Milestones
-- [ ] Creating or chosen a logo and a favicon
-- [ ] Finishing the homepage with links to main features
+- [x] Creating or chosen a logo and a favicon
+- [x] Finishing the homepage with links to main features
 
 ## 🔗 Connections
 - **Area:** [[Area Name]]
