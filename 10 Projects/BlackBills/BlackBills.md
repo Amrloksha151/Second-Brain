@@ -36,3 +36,29 @@ An AI-integrated financial system and bill issuer designed for businesses of all
 	- **Frontend Mobile:** [[React-Native]]
 	- **Deployment:** [[Kubernetes]]
 	- **API Docs:** [[AstroJS]] (with MD content collections)
+
+- **Infrastructure & Budget:**
+	- **Cloud Provider:** [[DigitalOcean]]
+	- **Total Opening Budget:** $250 (Targeting ~$20/mo for Year 1)
+	- **Monthly Breakdown:**
+		- Managed Kubernetes (DOKS): $12/mo
+		- Spaces Object Storage (250GB): $5/mo
+		- Load Balancer: $15/mo (Planned for scaling phase)
+
+- **Observability & Analytics:**
+	- **User Analytics:** [[Google Analytics]]
+	- **System Monitoring:** [[Grafana]] (system state/metrics)
+	- **Logging & APM:** [[DataDog]] (logs and performance tracking)
+
+- **Communications:**
+	- **Email Delivery (Auth/Transactional):** [[Brevo]]
+	- **Receiving Strategy:** 
+		- **Phase 1:** Alias emails (early stage).
+		- **Phase 2:** Custom [[SMTP]] servers (scaling phase).
+
+- **Network & Server Architecture:**
+	- **External Proxy:** [[Cloudflare Tunnels]] (Reverse Proxy)
+	- **Internal Proxy & Static Handling:** [[Nginx]]
+	- **Protocol Strategy:** 
+		- Primary: [[HTTP/2]]
+		- Restricted: [[HTTP/1.1]] (Limited to prevent request smuggling attacks)
