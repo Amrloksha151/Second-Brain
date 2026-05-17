@@ -20,7 +20,7 @@ Turn static security writeups into interactive, branching decision-making journe
 
 ## 🔗 Connections
 - **Area:** [[Security]]
-- **Resources:** [[Astro JS]], [[hackthrough.live]], [[MDX]]
+- **Resources:** [[Astro JS]], [[hackthrough.live]], [[MDX]], [Coolors Palette](https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429)
 
 ## 📝 Notes
 - **Core Concept:** "Reading isn't practicing."
