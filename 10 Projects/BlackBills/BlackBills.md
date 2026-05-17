@@ -28,3 +28,11 @@ An AI-integrated financial system and bill issuer designed for businesses of all
 	- Developer-first approach and scalability for all business sizes.
 	- AI-driven automation for billing and reconciliation.
 	- Significant cost efficiency compared to [[Wave]], [[Zoho Invoices]], and [[Invoice Ninja]].
+
+- **Tech Stack:**
+	- **Backend + API:** [[Django]] + [[Django Rest Framework]]
+	- **Database:** [[PostgreSQL]] (Self-hosted)
+	- **Frontend Web:** [[React]]
+	- **Frontend Mobile:** [[React-Native]]
+	- **Deployment:** [[Kubernetes]]
+	- **API Docs:** [[AstroJS]] (with MD content collections)
